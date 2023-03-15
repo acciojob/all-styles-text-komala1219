@@ -5,6 +5,7 @@
 
 	width:400px;
 	background-color:purple;
+	border-left:5px solid green;
 	
 	
 	
@@ -15,8 +16,7 @@
 	padding:10px;
 	fontsize:20px;
 	color:white;
-	font-style:underline;
-	border-left:185px;
-	border-color:green;
+	text-decoration:underline;
+	
 	
 }
